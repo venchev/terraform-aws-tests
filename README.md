@@ -1,2 +1,2 @@
-# terraform-was-tests
-terraform-was-tests
+# terraform-aws-tests
+Creation of some AWS elements with terraform for testing + adding a budget.
